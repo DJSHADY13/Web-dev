@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #E4F9F5;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 8em;
+    line-height: 2;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 80px;
+}
+
+h3 {
+    color : #11999E;
+    font-size: 30px;
+}
+
+.p {
+    color: #66BFBF;
+    font-size: 45px;
+    font-weight: normal;
+
+}
+
+
+.top {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+.middle {
+   
+}
+
+.bottom {
+    background-color : #11999E;;
+
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud {
+   position: absolute;
+   right: 300px;
+   top: 50px;
+
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2.5;
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 60px;
+}
+
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
